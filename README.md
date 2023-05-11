@@ -1,0 +1,2 @@
+# go_web_bubble
+待办事项清单网站：一个基于Gin+GORM+MySQL的go_web开发的项目，是一个待办事项清单网站，能够实现添加、查询、修改和删除待办事项的功能，其中前端页面使用的基于vue和ElementUI开发的模板
